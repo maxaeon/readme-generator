@@ -1,4 +1,4 @@
-# 9.-Node.js-Challenge-Professional-README-Generator
+# 9. README-Generator
 
 # Purpose
 Using the command line interface, this application generates a professional README.md file for projects on GitHub, allowing project creators to devote more time to their projects. 
