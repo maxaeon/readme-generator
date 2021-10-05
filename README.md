@@ -15,7 +15,8 @@ In the future, this project may be improved for editability.
 1. Clone the Git repository. Navigate to the folder and run the following commands in your command line to install the npm package dependencies.
 2. "npm init"
 3. "npm install inquirer"
-4. Invoke the application with "node index.js"
+4. "npm install bser"
+5. Invoke the application with "node index.js"
 
 # Usage
 Answer prompts in command line to generate README.md.
